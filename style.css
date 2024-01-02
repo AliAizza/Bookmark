@@ -362,7 +362,7 @@ section{
 }
 
 .sec3 .extensions div .dots{
-    width: 16rem;
+    width: 100%;
     margin-bottom: 1.2rem;
 }
 
@@ -431,7 +431,7 @@ section{
 
 .sec4 .answer-shown{
     max-height: 15rem;
-    transition: all ease-in .5s;
+    transition: all ease .5s;
 }
 
 .sec4 .question-and-answer .question{
@@ -932,7 +932,7 @@ footer .social-media img:hover{
         font-size: 1.5rem;
         text-align: center;
     }
-    .sec1 .left p, .sec2 p, .sec3 p, .sec4 p, .sec5 p{
+    .sec1 .left p, .sec2 p, .sec3 p, .sec4 .main-paragraph, .sec5 p{
         font-size: 0.8rem;
         width: 80%;
         max-width: 80%;
@@ -978,7 +978,7 @@ footer .social-media img:hover{
         padding: 30px 20px;
     }
     .sec1 .right img{
-        width: 25rem;
+        width: 22rem;
         top: 6rem;
     }
     .sec2 .tab img{
