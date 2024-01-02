@@ -896,6 +896,9 @@ footer .social-media img:hover{
     header{
         padding: 30px 50px;
     }
+    .sec4 .answer-shown{
+        max-height: 20rem;
+    }
 }
 
 @media screen and (max-width: 520px){
