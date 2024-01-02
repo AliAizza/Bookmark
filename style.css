@@ -771,6 +771,7 @@ footer .social-media img:hover{
     }
     header .hamb{
         display: inline-block;
+        cursor: pointer;
         transition: all ease-in-out 350ms;
     }
     header .active{
