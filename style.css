@@ -770,6 +770,7 @@ footer .social-media img:hover{
         margin-bottom: 3rem;
     }
     header .hamb{
+        z-index: 999999999;
         display: inline-block;
         cursor: pointer;
         transition: all ease-in-out 350ms;
