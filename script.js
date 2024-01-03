@@ -76,7 +76,7 @@ function show_navbar(element){
         element.src = 'images/icon-hamburger.svg';
         reminder--;
         element.classList.remove('active');
-        nav.style.top = '-200%';
+        nav.style.top = '-130%';
         book.style.opacity = '1';
         body.style.overflow = 'visible';
     }
